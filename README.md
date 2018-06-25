@@ -2,7 +2,7 @@
 
 View online: https://xzapno.github.io/Psychic-Game/
 
-In this assignment, you'll create a a game to test a users psycic abilities. The app will run in the browser, and feature dynamically updated HTML and CSS powered by JavaScript code.
+In this assignment, you'll create a a game to test a users psychic abilities. The app will run in the browser, and feature dynamically updated HTML and CSS powered by JavaScript code.
 
 
 1. The computer will generate a randowm letter using JavaScript. 
