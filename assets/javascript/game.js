@@ -52,5 +52,3 @@ document.onkeypress = function(event) {
     }
 }
 
-// Update HTML on index Page
-
